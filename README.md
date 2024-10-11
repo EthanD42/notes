@@ -25,6 +25,7 @@
 [W3 Schools](https://www.w3schools.com/)
 [Learning Github](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#lists)
 [D2L Home](https://learn.georgebrown.ca/d2l/home)
+[CLI commands](docs/cli.md)
 
 ## Experiments
 <!-- this is hidden-->
